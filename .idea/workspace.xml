@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1649df7-ee97-4c6a-831d-dae61f008789" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/community/community/controller/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/community/community/controller/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/hello.html" beforeDir="false" />
-    </list>
+    <list default="true" id="a1649df7-ee97-4c6a-831d-dae61f008789" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +98,7 @@
       <workItem from="1578208581358" duration="1206000" />
       <workItem from="1578209888471" duration="648000" />
       <workItem from="1578210723708" duration="8339000" />
-      <workItem from="1578284151983" duration="4124000" />
+      <workItem from="1578284151983" duration="4394000" />
     </task>
     <task id="LOCAL-00001" summary="add README.md">
       <created>1578219054786</created>
@@ -143,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578284371091</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="index">
+      <created>1578294207671</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578294207671</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,7 +136,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="add README.md" />
+    <MESSAGE value="index" />
+    <option name="LAST_COMMIT_MESSAGE" value="index" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="2" key="#Project_Structure" timestamp="1578211380570">
@@ -162,10 +148,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="272" y="34" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1280.680@0.0.1280.680" timestamp="1578211560854" />
-    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1578294090765">
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1578294205710">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1578294090765" />
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1578294205710" />
     <state x="519" y="84" key="FileChooserDialogImpl" timestamp="1578215592784">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -210,10 +196,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="242" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1578217831921" />
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1578294097454">
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1578294220413">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1578294097454" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1578294220413" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1578217580635">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
